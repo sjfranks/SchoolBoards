@@ -1,0 +1,76 @@
+#container {
+  border:1px solid #000;
+  height:100%;
+  width:640px;
+  overflow:hidden;
+}
+
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.loadingScreen {
+    text-align: center;
+    color: gray;
+    position:absolute;
+    left:320px;
+    top:250px;
+}
+
+.tooltip {
+    color: #222; 
+    background: #fff; 
+    padding: .5em; 
+    text-shadow: #f5f5f5 0 1px 0;
+    border-radius: 2px; 
+    box-shadow: 0px 0px 2px 0px #a6a6a6; 
+    opacity: 0.9; 
+    position: absolute;
+}
+.hidden {
+    display: none;
+}
+
+.mesh {
+  fill: none;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.onmap {
+    fill: rgba(88,88,88,0.3);
+    opacity: 0.5;
+}
+
+.overlay:hover{
+    opacity: 0.5;
+}
+
+.ep {
+  fill: rgba(254, 196, 45, 1);
+  cursor: pointer;
+}
+.ec {
+  fill: #9F228E;
+  cursor: pointer;
+}
+.fp {
+  fill: #556266;
+  cursor: pointer;
+}
+.fc {
+  fill: #78ad47;
+  cursor: pointer;
+}
+
+.active {
+  fill: orange;
+}
+
+.active:hover{
+    opacity: 1;
+}
+

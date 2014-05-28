@@ -1,0 +1,73 @@
+Index,DSBNo,DSBName,Support,Language,boardType
+1,1,DSB Ontario North East,Public  ,English,ep
+2,2,Algoma DSB,Public  ,English,ep
+3,3,Rainbow DSB,Public  ,English,ep
+4,4,Near North DSB,Public  ,English,ep
+5,5.1,Keewatin-Patricia DSB,Public  ,English,ep
+6,5.2,Rainy River DSB,Public  ,English,ep
+7,6.1,Lakehead DSB,Public  ,English,ep
+8,6.2,Superior-Greenstone DSB,Public  ,English,ep
+9,7,Bluewater DSB,Public  ,English,ep
+10,8,Avon Maitland DSB,Public  ,English,ep
+11,9,Greater Essex County DSB,Public  ,English,ep
+12,10,Lambton Kent DSB,Public  ,English,ep
+13,11,Thames Valley DSB,Public  ,English,ep
+14,12,Toronto DSB,Public  ,English,ep
+15,13,Durham DSB,Public  ,English,ep
+16,14,Kawartha Pine Ridge DSB,Public  ,English,ep
+17,15,Trillium Lakelands DSB,Public  ,English,ep
+18,16,York Region DSB,Public  ,English,ep
+19,17,Simcoe County DSB,Public  ,English,ep
+20,18,Upper Grand DSB,Public  ,English,ep
+21,19,Peel DSB,Public  ,English,ep
+22,20,Halton DSB,Public  ,English,ep
+23,21,Hamilton-Wentworth DSB,Public  ,English,ep
+24,22,DSB of Niagara,Public  ,English,ep
+25,23,Grand Erie DSB,Public  ,English,ep
+26,24,Waterloo Region DSB,Public  ,English,ep
+27,25,Ottawa-Carleton DSB,Public  ,English,ep
+28,26,Upper Canada DSB,Public  ,English,ep
+29,27,Limestone DSB,Public  ,English,ep
+30,28,Renfrew County DSB,Public  ,English,ep
+31,29,Hastings and Prince Edward DSB,Public  ,English,ep
+32,30.1,Northeastern Catholic DSB,Separate,English,ec
+33,30.2,Nipissing-Parry Sound Catholic DSB,Separate,English,ec
+34,31,Huron-Superior Catholic DSB,Separate,English,ec
+35,32,Sudbury Catholic DSB,Separate,English,ec
+36,33.1,Northwest Catholic DSB,Separate,English,ec
+37,33.2,Kenora Catholic DSB,Separate,English,ec
+38,34.1,Thunder Bay Catholic DSB,Separate,English,ec
+39,34.2,Superior North Catholic DSB,Separate,English,ec
+40,35,Bruce-Grey Catholic DSB,Separate,English,ec
+41,36,Huron-Perth Catholic DSB,Separate,English,ec
+42,37,Windsor-Essex Catholic DSB,Separate,English,ec
+43,38,London District Catholic School Board,Separate,English,ec
+44,39,St. Clair Catholic DSB,Separate,English,ec
+45,40,Toronto Catholic DSB,Separate,English,ec
+46,41,Peterborough V N C Catholic DSB,Separate,English,ec
+47,42,York Catholic DSB,Separate,English,ec
+48,43,Dufferin-Peel Catholic DSB,Separate,English,ec
+49,44,Simcoe Muskoka Catholic DSB,Separate,English,ec
+50,45,Durham Catholic DSB,Separate,English,ec
+51,46,Halton Catholic DSB,Separate,English,ec
+52,47,Hamilton-Wentworth Catholic DSB,Separate,English,ec
+53,48,Wellington Catholic DSB,Separate,English,ec
+54,49,Waterloo Catholic DSB,Separate,English,ec
+55,50,Niagara Catholic DSB,Separate,English,ec
+56,51,Brant Haldimand Norfolk Catholic DSB,Separate,English,ec
+57,52,Catholic DSB of Eastern Ontario,Separate,English,ec
+58,53,Ottawa Catholic DSB,Separate,English,ec
+59,54,Renfrew County Catholic DSB,Separate,English,ec
+60,55,Algonquin and Lakeshore Catholic DSB,Separate,English,ec
+61,56,CSD du Nord-Est de l'Ontario,Public  ,French,fp
+62,57,CSD du Grand Nord de l'Ontario,Public  ,French,fp
+63,58,CS Viamonde,Public  ,French,fp
+64,59,Conseil des Écoles publiques de l'Est de l'Ontario,Public  ,French,fp
+65,60.1,CSD catholique des Grandes Rivières,Separate,French,fc
+66,60.2,CSD catholique Franco-Nord,Separate,French,fc
+67,61,CSD catholique du Nouvel-Ontario,Separate,French,fc
+68,62,CSD catholique des Aurores boréales,Separate,French,fc
+69,63,CS catholique Providence,Separate,French,fc
+70,64,CSD catholique Centre-Sud,Separate,French,fc
+71,65,CSD catholique de l'Est ontarien,Separate,French,fc
+72,66,CSD catholique du Centre-Est de l'Ontario,Separate,French,fc

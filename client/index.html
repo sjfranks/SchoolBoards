@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8">
+<html lang="en" ng-app>
+  <head>
+    <meta charset="utf-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>Map of Ontario</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/OntarioMap.css">
+
+    <!--[if lte IE 8]><script src="js/r2d3.js" charset="utf-8"></script><![endif]-->
+    <!--[if gte IE 9]><!-->
+    <script src="js/d3.js" charset="utf-8"></script>
+    <!--<![endif]-->
+
+
+    <script src="js/topojson.v1.min.js" charset="utf-8"></script>
+    <script src="js/queue.v1.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+  
+    &nbsp
+    <span class="typeSelector">
+        Board Type: 
+        <select id="boardType" onchange="selectBoardType()">
+          <option value="ep">English Public</option>
+          <option value="ec">English Catholic</option>
+          <option value="fp">French Public</option>
+          <option value="fc">French Catholic</option>
+        </select>
+    </div>
+    
+    &nbsp&nbsp&nbsp
+    
+    <span class="boardSelector">
+        Board Name: 
+        <select id="board" onchange="selectBoard()">
+        </select>
+    </div>
+    <br/>
+
+    <div id="container"></div>
+
+    <script src="js/OntarioMap.js" charset="utf-8"></script>
+
+  </body>
+</html>
